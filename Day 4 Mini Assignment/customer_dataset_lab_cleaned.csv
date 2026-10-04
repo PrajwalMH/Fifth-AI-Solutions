@@ -1,0 +1,12 @@
+customer_id,email,monthly_spend,plan_tier,signup_date,num_support_tickets,satisfaction_score,device_os,data_usage_gb,is_active
+C001,alice@example.com,49.99,Premium,2026-01-12,2,5,iOS,18.4,True
+C002,bob@example.com,29.99,Standard,2026-01-18,4,4,Android,12.1,True
+C003,carol@example.com,19.99,Basic,2026-02-03,6,3,Windows,7.6,True
+C004,david@example.com,0.0,Premium,2026-02-11,1,5,macOS,21.3,True
+C005,eve@example.com,39.99,Standard,2026-02-20,3,4,Android,10.9,False
+C006,frank@example.com,24.99,Basic,2026-03-02,5,2,Windows,5.4,True
+C007,grace@example.com,59.99,Premium,2026-03-14,0,5,iOS,16.7,True
+C008,henry@example.com,34.99,Standard,2026-03-21,2,3,Android,9.7,False
+C009,,44.99,Premium,2026-04-05,1,4,iOS,16.2,True
+C010,ivy@example.com,54.99,Premium,,2,5,macOS,20.1,True
+C011,jack@example.com,29.5,Standard,2026-05-01,3,4,Android,12.0,True
